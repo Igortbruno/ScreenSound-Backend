@@ -1,4 +1,4 @@
-# 🎂 Verificador de Idade e Maioridade
+# SCREENSOUND APP
 
 Um aplicativo backend desenvolvido em **C# / .NET** para ser utilizado como reprodutor de músicas e de podcasts
 
